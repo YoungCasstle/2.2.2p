@@ -1,4 +1,4 @@
-package web.dao;
+package web.Dao;
 
 import org.springframework.stereotype.Component;
 import web.Model.Car;
